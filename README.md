@@ -1,6 +1,6 @@
 # InstaGallery [ show your instagram photos without API ]
 
-InstaGallery is able to show the LAST photos of your PUBLIC instagram account. It using only the public link without others (e.g. API or Developer Account).
+InstaGallery is able to show the LAST photos of your PUBLIC instagram account. It needs only the public account url (e.g. the instagram-API or Developer Account, are not required).
 
 ## Author
 * **Pietro Cinaglia** - Contact me using [GitHub](https://github.com/pietrocinaglia) or [LinkedIn](https://linkedin.com/in/pietrocinaglia)
